@@ -2,7 +2,7 @@
     "name": "billingrad/billingrad-api",
     "description": "The Billingrad Sdk.",
     "keywords": ["billingrad", "bg", "sms", "sdk"],
-    "homepage": "http://billingrad.com",
+    "homepage": "billingrad.com",
     "license": "MIT",
     "support": {
         "email": "support+php_sdk@billingrad.com",
