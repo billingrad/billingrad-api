@@ -1,0 +1,52 @@
+{
+    "name": "billingrad/Billingrad-Api",
+    "description": "The Billingrad Sdk.",
+    "keywords": ["billingrad", "bg", "sms", "sdk"],
+    "homepage": "http://billingrad.com/",
+    "license": "MIT",
+    "support": {
+        "email": "support+php_sdk@billingrad.com",
+        "irc": "irc://irc.freenode.org/composer"
+    },
+    "type": "project",
+    "authors": [
+        {
+            "name": "Roman Sivakov",
+            "email": "romansivakov@gmail.com",
+            "homepage": "http://rsivakov.ru/",
+            "role": "CEO =)"
+        },
+        {
+            "name": "Ivan Kubota",
+            "email": "zibx.mail@gmail.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+
+
+
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+        "post-install-cmd": [
+
+        ],
+        "post-update-cmd": [
+
+        ],
+        "post-create-project-cmd": [
+
+        ]
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable"
+}
