@@ -30,7 +30,7 @@
     },
     "autoload": {
         "classmap": [
-
+            "bg-api.php"
         ]
     },
     "scripts": {
