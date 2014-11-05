@@ -34,11 +34,8 @@ class ApiBG {
         return json_decode( $result );
  
     } 
-}
- 
-/* Usage example
+}/* Usage example
 $bg_api = new ApiBG('public_key','private_key');
 $out = $bg_api->request('project', 'get', array('id' => 'project_id'));
 var_dump( $out );
 */
-
