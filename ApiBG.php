@@ -28,8 +28,8 @@ class ApiBG {
         curl_setopt( $c, CURLOPT_POST, true );
         curl_setopt( $c, CURLOPT_POSTFIELDS, $data );
  
-        $result = curl_exec( $c );
-        curl_close( $c );
+        $result = curl_exec($c);
+        curl_close($c);
  
         return json_decode( $result );
  
